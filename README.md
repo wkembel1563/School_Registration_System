@@ -1,2 +1,2 @@
 # School_Registration_System
-UTA OOP Class Project. Gtk-based GUI application to log student data
+UTA OOP Class Project. Gtkmm-based GUI application to log student data
